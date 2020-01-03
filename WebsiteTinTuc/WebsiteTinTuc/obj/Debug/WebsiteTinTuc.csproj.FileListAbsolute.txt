@@ -1,0 +1,39 @@
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojResolveAssemblyReference.cache
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojResolveAssemblyReference.cache
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojAssemblyReference.cache
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csproj.CopyComplete
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\Facebook.dll
+D:\Lập Trình WEB\Tiểu luận\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\Facebook.xml
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\bin\Facebook.dll
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\bin\Facebook.xml
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csproj.CopyComplete
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+C:\Users\Admin\Downloads\WebsiteTinTuc\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
